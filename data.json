@@ -1,0 +1,38 @@
+[
+    {
+        "type": "income",
+        "amount": 100000.0,
+        "category": "Salary",
+        "month": "January"
+    },
+    {
+        "type": "income",
+        "amount": 10000.0,
+        "category": "Freelancing",
+        "month": "January"
+    },
+    {
+        "type": "expense",
+        "amount": 5000.0,
+        "category": "Food",
+        "month": "January"
+    },
+    {
+        "type": "expense",
+        "amount": 4000.0,
+        "category": "Aane Jaane Ka Kharcha",
+        "month": "January"
+    },
+    {
+        "type": "income",
+        "amount": 100000.0,
+        "category": "Salary",
+        "month": "February"
+    },
+    {
+        "type": "income",
+        "amount": 10000000.0,
+        "category": "Salary",
+        "month": "March"
+    }
+]
