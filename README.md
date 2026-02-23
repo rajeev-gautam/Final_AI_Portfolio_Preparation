@@ -83,6 +83,69 @@ Each project folder contains:
 
 ---
 
+## 📁 Project Categories
+
+### 1️⃣ Python Foundations
+
+- Personal Finance Tracker (CLI + JSON)  
+- Student Result Management System (OOP + CSV)  
+- Contact Book Application (CRUD + JSON)  
+- NumPy Linear Algebra Toolkit (manual + NumPy)  
+
+---
+
+### 2️⃣ Data Analysis & Visualization
+
+- Weather Data Analyzer  
+- Sales Data Dashboard  
+- Exploratory Data Analysis (EDA)  
+- Retail Sales Analytics Dashboard  
+
+---
+
+### 3️⃣ Machine Learning
+
+- House Price Prediction (from scratch + sklearn)  
+- Student Performance Prediction (multi-model comparison)  
+- Customer Segmentation using KMeans  
+- Fraud / Spam Detection (imbalanced data, ROC-AUC)  
+
+---
+
+### 4️⃣ Natural Language Processing (NLP)
+
+- Spam Email Classifier  
+- Resume Screening System  
+- Sentiment Analysis using LSTM  
+- NLP-based Chatbot (Rule + ML)  
+
+---
+
+### 5️⃣ Deep Learning & Computer Vision
+
+- ANN Classifier (tabular data)  
+- CNN Image Classification (MNIST, CIFAR-10)  
+- Transfer Learning (Cats vs Dogs)  
+- Image Caption Generator (CNN + LSTM)  
+
+---
+
+### 6️⃣ Transformers & Advanced AI
+
+- Transformer Encoder (from scratch)  
+- BERT Fine-Tuning for Text Classification  
+- YOLO Object Detection System  
+
+---
+
+### 7️⃣ Deployment & Applications
+
+- ML Model Deployment using FastAPI  
+- OCR Text Extraction System  
+- Face Detection using OpenCV (Haar Cascade)  
+
+---
+
 ## 🚀 How to Run the Projects
 
 1. Open the respective project folder  
