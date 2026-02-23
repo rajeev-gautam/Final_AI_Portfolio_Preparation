@@ -1,4 +1,4 @@
-# AI / Machine Learning Internship Portfolio
+# **AI / Machine Learning Internship Portfolio**
 
 This repository contains a comprehensive collection of industry-oriented AI, Machine Learning, Deep Learning, NLP, and Computer Vision projects developed during an intensive internship program.
 
@@ -97,7 +97,7 @@ Each project folder contains:
 
 ## 👨‍💻 Author
 
-**Parv**  
+**Rajeev Gautam**  
 AI / Machine Learning Enthusiast  
 Interested in Data Science, NLP, Computer Vision & Deployment  
 
